@@ -1,9 +1,9 @@
-Image-Processing Project with Bmplib Library
-Overview
+##Image-Processing Project with Bmplib Library
+##Overview
 Welcome to the Image-Processing project powered by C++ and the powerful Bmplib library! This project focuses on filtering image-processing techniques to enhance and transform images in various creative ways.
 
-Features
-Black & White Transformation:
+#Features
+-Black & White Transformation:
 
 Description: Transforms an ordinary image into a classic black & white version.
 Usage: ./image_processor -bw input_image.bmp output_image.bmp
