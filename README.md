@@ -40,7 +40,7 @@ Welcome to the Image-Processing project powered by C++ and the powerful Bmplib l
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-image-processing-project.git
+   git clone https://github.com/Tarek-Mahm0ud/image-processing-project.git
 
 2. Navigate to the project directory:
    ```bash
